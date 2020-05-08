@@ -6,7 +6,9 @@ In order to ensure the safety of a region, it is necessary that troublemakers ar
 
 #### Proposed Idea
 
-You can see a small video of our proposed idea [here](https://youtu.be/1urNc679zwY)
+You can see a small video of our proposed idea [here](https://youtu.be/1urNc679zwY) 👇🏻👇🏻👇🏻
+
+[![Smart Surveillance System](https://img.youtube.com/vi/1urNc679zwY/0.jpg)](https://www.youtube.com/watch?v=1urNc679zwY)
 
 #### Proposed Solution
 
