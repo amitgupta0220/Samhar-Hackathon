@@ -10,4 +10,3 @@ In order to ensure the safety of a region, it is necessary that troublemakers ar
 * **Aashish Jethwa** - [PsychicA](https://github.com/PsychicA)
 * **Amit Gupta** - [amitgupta0220](https://github.com/amitgupta0220)
 * **Pawan Pujari** - [TeaViris](https://github.com/TeaViris)
-* **Juilee Bhombe** - [Jui17](https://github.com/Jui17)
