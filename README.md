@@ -8,6 +8,14 @@ In order to ensure the safety of a region, it is necessary that troublemakers ar
 
 You can see a small video of our proposed idea [here](https://youtu.be/1urNc679zwY)
 
+#### Proposed Solution
+
+Looking into the problem statement, it comes into mind that there must be something done with the surveillance. So to monitor these activities, we have a smart solution in which we would deploy our model in the pre-existing CCTV cameras to keep a track of the different activities and to ensure that the lockdown rules are being followed like social distancing, wearing masks outside, keeping a track of the count of people in a place,  etc. 
+
+Our model will be running on a server where the feed of all the CCTVs of a particular region is present. We have trained the model with the dataset to detect abnormal activities amongst individuals. It can also detect whether the mask is present on a person or not to alleviate the spread of Covid-19. The model will generate a confidence value depending on what it sees in the live CCTV feed. If the confidence value exceeds the set threshold, it will trigger an action in our model which will allow it to capture the frame along with the location and notify the nearby police officer via an application.
+
+
+
 ## Authors
 
 * **Aashish Jethwa** - [PsychicA](https://github.com/PsychicA)
